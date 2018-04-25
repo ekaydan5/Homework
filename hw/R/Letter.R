@@ -4,4 +4,3 @@ letter <- function(i){
   y <- sample(x,1)
   print(y)
 }
-letter()
