@@ -1,7 +1,7 @@
-\name{f}
-\alias{f}
+\name{Letter}
+\alias{Letter}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{ Letter
 %%  ~~function to do ... ~~
 }
 \description{
