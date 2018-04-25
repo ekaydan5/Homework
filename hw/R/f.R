@@ -1,5 +1,7 @@
-f <-
-function(x){
-  y <- x*2
-  return(y)
+letter <- function(i){
+  i
+  x <- letters[1:26]
+  y <- sample(x,1)
+  print(y)
 }
+letter()
